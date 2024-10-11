@@ -28,7 +28,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalissonluan/)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ybrine&show_icons=true&theme=dark)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=ybrine&show_icons=true&theme=midnight-purple)
 
 <!-- Portfolio -->
 ## Portfolio:
