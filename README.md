@@ -32,7 +32,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Portfólio](https://github.com/VariableBee/seaborn-data-visualization)
+- [Portfólio](https://ybrine.github.io/Portfolio/)
 
 
 <!-- GIF -->
